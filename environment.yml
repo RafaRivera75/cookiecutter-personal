@@ -1,0 +1,7 @@
+name: mi_ambiente
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
